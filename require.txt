@@ -1,0 +1,12 @@
+-U langchain langchain-community
+langchain
+langchain_experimental
+streamlit
+pdfplumber
+semantic-chunkers
+open-text-embeddings
+ollama
+prompt-template
+sentence-transformers
+faiss
+faiss-cpu
